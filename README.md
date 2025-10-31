@@ -1,5 +1,3 @@
-
-````markdown
 # Histogram Tabanlı Görüntü İyileştirme Uygulamaları
 
 Bu proje, "Görüntü İşleme" dersi ödevi (ÖDEV-I) kapsamında geliştirilmiştir. Python, OpenCV ve Matplotlib kütüphanelerini kullanarak, bir gri seviyeli görüntü üzerinde 5 farklı histogram tabanlı iyileştirme tekniğini uygular ve sonuçları görsel olarak karşılaştırır.
@@ -58,10 +56,3 @@ Betiği çalıştırdığınızda, her yöntem için:
 2.  **Dosya Kaydı:** Aynı karşılaştırma grafiği, `sonuc_histogram_eşitleme.png`, `sonuc_clahe.png`, `sonuc_gamma_dönüşümü_(gamma=0.4).png` vb. isimlerle `.png` formatında betiğin bulunduğu dizine otomatik olarak **kaydedilir**.
 
 <!-- end list -->
-
-```
-
----
-
-Bu metni kopyalayıp, projenizin olduğu dizinde `README.md` adıyla yeni bir dosyaya yapıştırabilirsiniz.
-```

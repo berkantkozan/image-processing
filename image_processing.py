@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 # --- Görüntüyü Yükle ---
 # 'orijinal_goruntu.jpg' yerine kendi dosya yolunuzu yazın.
 # cv2.IMREAD_GRAYSCALE ile görüntüyü doğrudan gri seviyeli olarak okuyoruz.
-image_path = 'indir1.jpg' 
+image_path = 'indir.jpg' 
 orijinal_img = cv2.imread(image_path, cv2.IMREAD_GRAYSCALE)
 
 # Görüntü yüklenemezse hata ver
